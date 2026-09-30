@@ -1,0 +1,29 @@
+# Virtual environment
+tf-env/
+
+# Trained model files (too large for GitHub)
+models/
+
+# Image dataset (large files)
+Flicker8k_Dataset/
+Flickr8k_text/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Pickle files (regeneratable)
+features.pkl
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
